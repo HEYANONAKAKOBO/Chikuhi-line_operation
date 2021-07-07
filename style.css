@@ -3,9 +3,6 @@ body {
 text-align: center;
 }
 
-ifram {
-  width:90%;
-}
 
 .ue {
   width:100%;
@@ -26,9 +23,31 @@ ifram {
 
 
 
-.hyou {
+.hyou iframe {
 
 
 width: 100%;
-height: 100%;
+
+}
+
+
+
+
+.koumoku1 {
+  font-size: 40px;
+ 
+}
+
+
+.koumoku {
+  font-size: 40px;
+  
+}
+
+a.red {
+  color: red;
+}
+
+a.blue {
+  color: blue;
 }
